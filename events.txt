@@ -1,0 +1,5 @@
+d OneQuantum-Project 7:00 8:30
+s GradSchule 9:30 12:30
+d GH-Slides 14:00 17:00
+s Arch-Tool 17:00 18:30
+s Job-seeking 20:00 22:00
